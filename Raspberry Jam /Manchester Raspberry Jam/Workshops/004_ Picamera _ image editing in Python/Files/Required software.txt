@@ -1,0 +1,4 @@
+Python Imaging Library is required to run these scripts. Install it using:
+
+sudo apt-get update
+sudo apt-get install python-imaging

@@ -1,0 +1,14 @@
+In Brief: use IDLE3 (Python 3 in the Menu), and scripts
+from the 'picraft' folder.
+
+~~~
+
+This workshop was first taught with the "mcpi" API, the official
+API provided by Mojang for Minecraft: Pi Edition.
+
+The revised material for this workshop uses the alternate
+"picraft" API written by David Jones. This API is compatible
+with the newer iterations of Python, and is written to match
+pythons own syntactic style.
+
+Use of the "picraft" API is highly recommened.
